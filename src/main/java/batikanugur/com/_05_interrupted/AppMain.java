@@ -33,6 +33,7 @@ public class AppMain {
                 if(sayac==25 ) {
                     mainThread.interrupt();
                     break;
+                    //aksjhdakjs
                 }
             }
 
